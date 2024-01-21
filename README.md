@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Fathurrahman</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-- 🌱 I’m currently learning **Bachelor Software Engineering**
+- 🌱 I’m currently learning **Bachelor Software Engineering** as **1st Year** student in **Computer Faculty**
+  
+- I can easily cooperate with my groupmates on doing assignments and project
+- I like to teach my friends about this course subjects if there is any confuses
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
