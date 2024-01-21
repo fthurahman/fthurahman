@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   <h3 align="center">Certificates</h3>
 - STEM DECATHLON CHALLENG 2021
 - IIUM MATHEMATICS COMPETITION (IMC 2021)
+  <h3 align="center">Awards</h3>
+- Valedictorian
 
   
 
