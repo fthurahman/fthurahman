@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 - 🌱 I’m currently learning **Bachelor Software Engineering** as **1st Year** student in **Computer Faculty**
-  
 - I can easily cooperate with my groupmates on doing assignments and project
 - I like to teach my friends about this course subjects if there is any confuses
+- Here are some certificates when I was in high school which is:
+  --> STEM DECATHLON CHALLENG 2021
+  --> IIUM MATHEMATICS COMPETITION (IMC 2021)
+  
+
   
 
 <h3 align="left">Connect with me:</h3>
