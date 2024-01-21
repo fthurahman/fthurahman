@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Bachelor Software Engineering** as **1st Year** student in **Computer Faculty**
 - I can easily cooperate with my groupmates on doing assignments and project
 - I like to teach my friends about this course subjects if there is any confuses
-<h3 align="center">Certificates</h3>
+  <h3 align="center">Certificates</h3>
 - STEM DECATHLON CHALLENG 2021
--IIUM MATHEMATICS COMPETITION (IMC 2021)
+- IIUM MATHEMATICS COMPETITION (IMC 2021)
+
   
 
   
