@@ -1,4 +1,5 @@
 ### Hi there Im Aman👋
+Welcome!
 
 <!--
 **fthurahman/fthurahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,8 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me abo How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 - 🌱 I’m currently learning **Bachelor Software Engineering** as **1st Year** student in **Computer Faculty**
-- I can easily cooperate with my groupmates on doing assignments and project
-- I like to teach my friends about this course subjects if there is any confuses
+- 📫 I can easily cooperate with my groupmates on doing assignments and project
+- ⚡ I like to teach my friends about this course subjects if there is any confuses
   <h3 align="center">Certificates</h3>
-- STEM DECATHLON CHALLENG 2021
-- IIUM MATHEMATICS COMPETITION (IMC 2021)
+- 😄 STEM DECATHLON CHALLENG 2021
+- 🔭 IIUM MATHEMATICS COMPETITION (IMC 2021)
   <h3 align="center">Awards</h3>
-- Valedictorian
+- 💬 Valedictorian
 
   
 
